@@ -1,0 +1,2 @@
+dfs traversal is
+0 3 2 1 4 
